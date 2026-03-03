@@ -31,13 +31,13 @@
         "en": {
           "title": "*Education* Background",
           "title_short": null,
-          "description": "A glimpse into my academic trajectory and accomplishments.",
+          "description": "My training background, always evolving.",
           "nav_label": "Education"
         },
         "fr": {
           "title": "Parcours *Éducatif*",
           "title_short": null,
-          "description": "Un aperçu de mon parcours académique et de mes réalisations.",
+          "description": "Mon parcours de formation, en constante évolution.",
           "nav_label": "Éducation"
         }
       }
@@ -52,13 +52,13 @@
         "en": {
           "title": "*Skill* Set",
           "title_short": null,
-          "description": "Exploring the diverse range of skills I've acquired and developed:",
+          "description": "Skills I work on every day:",
           "nav_label": "Skills"
         },
         "fr": {
           "title": "Ensemble de *Compétences*",
           "title_short": null,
-          "description": "Exploration de la gamme variée de compétences que j'ai acquises et développées:",
+          "description": "Les compétences que je développe au quotidien:" ,
           "nav_label": "Compétences"
         }
       }
@@ -73,13 +73,13 @@
         "en": {
           "title": "*Professional* Experience",
           "title_short": null,
-          "description": "A look into my work experience and career journey.",
+          "description": "A look into my work experience and career into sport.",
           "nav_label": "Experience"
         },
         "fr": {
           "title": "Expérience *Professionnelle*",
           "title_short": null,
-          "description": "Un aperçu de mon expérience professionnelle et de mon parcours de carrière.",
+          "description": "Un aperçu de mon expérience professionnelle et de mon parcours dans le sport.",
           "nav_label": "Expérience"
         }
       }
@@ -94,13 +94,13 @@
         "en": {
           "title": "My *Portfolio*",
           "title_short": null,
-          "description": "Explore a selection of my recent projects and creative works.",
+          "description": "Explore a selection of my recent projects.",
           "nav_label": "Portfolio"
         },
         "fr": {
           "title": "Mon *Portfolio*",
           "title_short": null,
-          "description": "Découvrez une sélection de mes projets récents et œuvres créatives.",
+          "description": "Découvrez une sélection de mes projets récents.",
           "nav_label": "Portfolio"
         }
       }
