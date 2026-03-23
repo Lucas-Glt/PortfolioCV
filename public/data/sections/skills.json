@@ -183,15 +183,15 @@
           "img": null,
           "fallbackFaIcon": "fa-solid fa-database",
           "fallbackFaIconColor": null,
-          "percentage": 25,
+          "percentage": 15,
           "locales": {
             "en": {
-              "title": "MariaDB",
-              "description": "Setting up and managing MariaDB databases for self-hosted applications like Nextcloud."
+              "title": "Language Python",
+              "description": "Learning and settings python scripts to monitor or buil automation."
             },
             "fr": {
-              "title": "MariaDB",
-              "description": "Mise en place de bases de données MariaDB pour des applications auto-hébergées comme Nextcloud."
+              "title": "Language Python",
+              "description": "Apprentissage et mise en place de scripts python pour monitorer ou automatiser."
             }
           }
         },
