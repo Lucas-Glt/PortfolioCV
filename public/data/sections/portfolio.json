@@ -42,6 +42,10 @@
               "tags": [ "Linux", "Debian", "SSH", "Docker", "Nginx", "UFW", "Let's Encrypt" ]
             }
           },
+          "screenshots": [
+            "/vue-resume-template/images/portfolio/screen_Docker.png",
+            "/vue-resume-template/images/portfolio/screen_Nginx.png"
+          ],
           "links": []
         },
         {
@@ -62,6 +66,10 @@
               "tags": [ "Nextcloud", "MariaDB", "Docker", "Nginx", "HTTPS" ]
             }
           },
+          "screenshots": [
+            "/vue-resume-template/images/portfolio/screen_yml.png",
+            "/vue-resume-template/images/portfolio/screen_nextcloud.png"
+          ],
           "links": []
         },
         {
@@ -122,6 +130,9 @@
               "tags": [ "UFW", "SSH", "Sécurité", "Linux", "Pare-feu" ]
             }
           },
+          "screenshots": [
+            "/vue-resume-template/images/portfolio/screen_failban.png"
+          ],
           "links": []
         },
         {
@@ -166,6 +177,62 @@
             {
               "faIcon": "fa-brands fa-github",
               "href": "https://github.com/saku-kali/vue-resume-template",
+              "stringKey": "view_more_info"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-bell",
+          "fallbackFaIconColor": "#5865F2",
+          "category": "infrastructure",
+          "locales": {
+            "en": {
+              "title": "Diun - Docker Image Update Notifications",
+              "description": "Deployment of <b>Diun</b> (Docker Image Update Notifier) to automatically monitor Docker images running on the VPS and receive instant <b>Discord notifications</b> whenever a new version is available. Eliminates manual tracking of container updates.",
+              "tags": [ "Diun", "Docker", "Discord", "Monitoring", "Automation" ]
+            },
+            "fr": {
+              "title": "Diun - Notifications de mises à jour Docker",
+              "description": "Déploiement de <b>Diun</b> (Docker Image Update Notifier) pour surveiller automatiquement les images Docker actives sur le VPS et recevoir des <b>notifications Discord</b> instantanées dès qu'une nouvelle version est disponible. Supprime le suivi manuel des mises à jour de conteneurs.",
+              "tags": [ "Diun", "Docker", "Discord", "Supervision", "Automatisation" ]
+            }
+          },
+          "screenshots": [
+            "/vue-resume-template/images/portfolio/screen_ymldiun.png",
+            "/vue-resume-template/images/portfolio/screen_diun.png"
+          ],
+          "links": []
+        },
+        {
+          "id": 9,
+          "img": null,
+          "fallbackFaIcon": "fa-brands fa-python",
+          "fallbackFaIconColor": "#3572A5",
+          "category": "infrastructure",
+          "locales": {
+            "en": {
+              "title": "Python - VPS Monitoring Scripts",
+              "description": "Development of two <b>Python</b> scripts running as <b>systemd services</b> on the VPS: a real-time Nginx log watcher sending <b>Discord alerts</b> on genuine portfolio visits, and a daily visitor count cron script. Both interact with the <b>Discord Webhook API</b> for automated reporting.",
+              "tags": [ "Python", "systemd", "Nginx", "Discord", "Automation", "Cron" ]
+            },
+            "fr": {
+              "title": "Python - Scripts de supervision VPS",
+              "description": "Développement de scripts <b>Python</b> tournant en tant que <b>services systemd</b> sur le VPS : vérifier en temps réel des logs Nginx envoyant des <b>alertes Discord</b> lors de vraies visites du portfolio et tri selon la ref (?ref=), un script cron de comptage quotidien des visiteurs et un script d'interaction pour superviser les métriques du serveur. Les scripts interagissent avec l'<b>API Webhook Discord</b> pour des rapports automatisés.",
+              "tags": [ "Python", "systemd", "Nginx", "Discord", "Automatisation", "Cron" ]
+            }
+          },
+          "screenshots": [
+            "/vue-resume-template/images/portfolio/screen_botpython.png",
+            "/vue-resume-template/images/portfolio/screen_botdiscord.png",
+            "/vue-resume-template/images/portfolio/screen_counterpython.png",
+            "/vue-resume-template/images/portfolio/screen_counterdiscord.png"
+          ],
+          "links": [
+            {
+              "faIcon": "fa-brands fa-github",
+              "href": "https://github.com/Lucas-Glt/homelab",
               "stringKey": "view_more_info"
             }
           ]

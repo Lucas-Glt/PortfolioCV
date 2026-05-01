@@ -12,6 +12,7 @@ export default class ArticleItem {
         this._percentage = data['percentage']
         this._locales = new Locales(data.locales || {})
         this._links = data.links || []
+        this._screenshots = data.screenshots || []
         this._category = data['category']
     }
 
@@ -79,6 +80,11 @@ export default class ArticleItem {
     /** @return {Array} */
     get links() {
         return this._links
+    }
+
+    /** @return {Array} */
+    get screenshots() {
+        return this._screenshots
     }
 
     /** @return {String} */
