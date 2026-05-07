@@ -1,4 +1,4 @@
-{
+﻿{
   "articles": [
     {
       "id": 1,
@@ -15,10 +15,10 @@
           "id": 1,
           "locales": {
             "en": {
-              "description": "Coming from a sports education background, I am currently transitioning into <strong>IT systems & networks administration</strong>. Self-taught and curious, I've been building and managing my own VPS infrastructure using Docker, Linux, and various open-source tools."
+              "description": "Coming from a sports education background, I transitioned into <strong>Linux systems administration</strong>. Self-taught and hands-on, I design, deploy and maintain production infrastructure using Docker, Nginx, and open-source tooling."
             },
             "fr": {
-              "description": "Issu du secteur de l'éducation sportive, je suis actuellement en reconversion vers l'<strong>administration systèmes & réseaux</strong>."
+              "description": "Issu du secteur de l'éducation sportive, j'ai opéré une reconversion vers l'<strong>administration systèmes Linux</strong>. Autodidacte et orienté pratique, je conçois, déploie et maintiens des infrastructures en production."
             }
           }
         },
@@ -26,10 +26,10 @@
           "id": 2,
           "locales": {
             "en": {
-              "description": "<strong>Curious and self-taught</strong>, I manage my own VPS infrastructure on Linux with Docker and provide open-source tools for an association working on digital inclusion."
+              "description": "<strong>Autonomous and security-minded</strong>, I manage a full self-hosted VPS environment (Docker, Nginx, Python automation) and act as sysadmin for an association focused on digital inclusion."
             },
             "fr": {
-              "description": "<strong>Curieux et autodidacte</strong>, je gère ma propre infrastructure VPS sous Linux avec Docker et mets à disposition des outils open-source au service d'une association qui œuvre pour l'insertion numérique."
+              "description": "<strong>Autonome et orienté sécurité</strong>, j'administre un environnement VPS auto-hébergé complet (Docker, Nginx, automatisation Python) et assure le rôle d'administrateur système pour une association d'insertion numérique."
             }
           }
         },
@@ -37,10 +37,10 @@
           "id": 3,
           "locales": {
             "en": {
-              "description": "I'm looking for an apprenticeship as an <strong>IT support technician</strong> to develop my skills in a professional environment and invest myself durably in this field."
+              "description": "I'm actively looking for a <strong>sysadmin or infrastructure</strong> position where I can contribute immediately and grow toward DevOps and security practices."
             },
             "fr": {
-              "description": "Je recherche une alternance en tant que <strong>technicien support IT</strong> afin de développer mes compétences en environnement professionnel et m'investir durablement dans ce secteur."
+              "description": "Je recherche un poste en <strong>administration système ou infrastructure</strong> pour contribuer concrètement et évoluer vers des pratiques DevOps et sécurité."
             }
           }
         }
